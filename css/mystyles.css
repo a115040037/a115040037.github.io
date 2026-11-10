@@ -8,15 +8,15 @@ h2 {
 text-transform: uppercase;
 }
 :root {
---bs-primary-rgb: 160, 82, 45;
---bs-link-color: rgb(210, 105, 30);
+--bs-primary-rgb: 144, 238, 144;
+--bs-link-color: rgb(144, 238, 144);
 --bs-link-hover-color: rgb(0, 0, 0);
 }
 .social-icons .social-icon:hover {
 background-color: rgb(0, 0, 0);
 }
 .resume-section {
-    background-color: rgb(255, 248, 220);
+    background-color: rgb(255, 255, 240);
     /* background-image: url('../assets/img/white-wall-3-2.
 png'); */
 }
