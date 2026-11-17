@@ -8,8 +8,8 @@ h2 {
 text-transform: uppercase;
 }
 :root {
---bs-primary-rgb: 144, 238, 144;
---bs-link-color: rgb(144, 238, 144);
+--bs-primary-rgb:244, 164, 96;
+--bs-link-color: rgb(244, 164, 96);
 --bs-link-hover-color: rgb(0, 0, 0);
 }
 .social-icons .social-icon:hover {
